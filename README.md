@@ -1,26 +1,28 @@
 # Java_intership_task2 
-🧠 Java Programs Collection
+## 🧠 Java Programs Collection
 
 This repository contains simple Java programs created for learning and practicing basic programming logic, pattern printing, conditionals, and user input handling.
 _________________________
-📌 Description
+
+## 📌 Description
 This is writes for my intership task based program.During this task, I am learn about, OPP concepts,types of Inheritance, Subclass, override annotation. 
-_________________________&
-📁 Files included
+_________________________
+
+## 📁 Files included
 
 HeirarchyInheritance.java-A Super class contains Subclass.
 
 BankSystem.java-A A simple Java program that simulates basic banking operations such as account creation, deposit, withdrawal, and balance checking. It uses object-oriented programming (OOP) principles like classes and methods to manage customer data and transactions.
 _________________________
-🛠️ Requirements
+## 🛠️ Requirements
 
 Java JDK installed
 Terminal or IDE to run Java code
 __________________________
-🔍Sample outputs
+## 🔍Sample outputs
 
 1.HeirarchyInheritance.java
-
+## Sample output of the program
 This animal Eats
 This animal Eats
 Dog barks
@@ -28,8 +30,8 @@ This animal Eats
 Cat meows
 
 2.BankSystem.java
-
-.....Welcome to ABC Bank.....
+## sample output of the program
+'''.....Welcome to ABC Bank.....
 Enter your name: John Doe
 Enter your Account number: 123456789
 Enter your Balance: 5000
@@ -78,6 +80,7 @@ Balance:6350.0
 5.Exit
 Enter your choice:5
 ....Thank you Welcome Again......
+'''
 
 
 
